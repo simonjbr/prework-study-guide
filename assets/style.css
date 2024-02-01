@@ -24,6 +24,14 @@ img {
     margin-right: auto;
 }
 
+.listImg {
+    display: block;
+    height: 300px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 ul {
     padding-left: 40px;
     font-size: 20px;
